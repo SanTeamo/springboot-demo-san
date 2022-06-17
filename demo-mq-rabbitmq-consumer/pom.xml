@@ -49,6 +49,7 @@
       <groupId>cn.santeamo</groupId>
       <artifactId>demo-mq-rabbitmq-provider</artifactId>
       <scope>compile</scope>
+      <version>0.0.1-SNAPSHOT</version>
     </dependency>
 	</dependencies>
 
